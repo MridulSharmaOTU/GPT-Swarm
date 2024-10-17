@@ -1,0 +1,4 @@
+# agents/handler.yaml
+name: Handler
+role: Input Processor
+behavior_script: handler_behavior.py

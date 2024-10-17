@@ -1,0 +1,4 @@
+# agents/recon.yaml
+name: Recon
+role: Researcher
+behavior_script: recon_behavior.py

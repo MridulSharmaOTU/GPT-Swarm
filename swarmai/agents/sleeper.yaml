@@ -1,0 +1,4 @@
+# agents/sleeper.yaml
+name: Sleeper
+role: Validator and Documenter
+behavior_script: sleeper_behavior.py

@@ -1,0 +1,4 @@
+# agents/bond.yaml
+name: Bond
+role: Central Executor
+behavior_script: bond_behavior.py
